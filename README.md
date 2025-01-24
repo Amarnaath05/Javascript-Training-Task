@@ -35,12 +35,6 @@ Welcome to my JavaScript Training Repository! This repository contains tasks com
 - **Task 46-50:** Define and use functions (including default parameters).
 - **Task 51-55:** Write arrow functions and understand `this` context differences.
 
----
-
-## 🛠️ How to Run
-1. Clone the repository: `git clone <repository-url>`
-2. Open the files in a code editor like VS Code.
-3. Use a browser console or Node.js to execute the JavaScript code.
 
 ---
 
